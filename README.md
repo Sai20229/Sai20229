@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yeruva Sai Gopi
 
 <h3 align="center">
-  💻 Aspiring ML Engoineer | 🐍 Python Programmer | 📊 Data Analytics Enthusiast
+  💻 Aspiring ML Engineer | 🐍 Python Programmer | 📊 Data Analytics Enthusiast
 </h3>
 
 <p align="center">
